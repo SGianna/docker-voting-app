@@ -88,12 +88,12 @@ body{
   text-transform: uppercase;
 }
 
-#choice .choice.Infra{
+#choice .choice.인프라{
   color: #00cbca;
   float: right;
 }
 
-#choice .choice.Back-End{
+#choice .choice.백엔드{
   color: #2196f3;
   float: left;
 }

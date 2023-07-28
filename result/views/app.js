@@ -1,4 +1,4 @@
-var app = angular.module('Back-EndvsInfra', []);
+var app = angular.module('백엔드vs인프라', []);
 var socket = io.connect({transports:['polling']});
 
 var bg1 = document.getElementById('background-stats-1');
